@@ -1,6 +1,6 @@
 # Test driving I
 
-This repository contains my work on the Test Driving I exercise from week 1 of the Makers Academy course.
+This repository contains my work on the [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md) exercise from week 1 of the Makers Academy course.
 
 Its learning objective is to:
 
@@ -86,3 +86,11 @@ describe 'show_people_I_have_met_method' do
   end
 end
 ```
+
+### Exercise 4
+
+This exercise involved setting up rspec in a new directory called design\_strategies\_1 and initialising rspec there, which can be found in this repository.
+
+### Exercise 5
+
+
