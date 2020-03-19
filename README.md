@@ -93,4 +93,5 @@ This exercise involved setting up rspec in a new directory called design\_strate
 
 ### Exercise 5
 
+This exercise involved implementing a simple test and making it pass. The code in the repo shows an extension to this where I took the opportunity to turn the code into a full class implementation.
 
